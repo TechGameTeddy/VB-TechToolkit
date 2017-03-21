@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TechToolkit\bin\Debug\Tech Toolkit.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TechToolkit\bin\Debug\Tech Toolkit.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TechToolkit\bin\Debug\Tech Toolkit.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TechToolkit\bin\Debug\Tech Toolkit.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TechToolkit\obj\Debug\Toolkit.Toolkit.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TechToolkit\obj\Debug\Toolkit.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TechToolkit\obj\Debug\Tech Toolkit.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TechToolkit\obj\Debug\Tech Toolkit.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TechToolkit\obj\Debug\Tech Toolkit.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TechToolkit\obj\Debug\Tech Toolkit.pdb
